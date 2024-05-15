@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["."];
+const statusMessages = ["ᴼᶠⁱᶜⁱᵃˡⁿʸ ᵇᵒᵗ ˢᵉʳʷᵉʳᵒʷʸ"];
 
 
 let currentIndex = 0;
